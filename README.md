@@ -21,8 +21,7 @@ This will be an application DIO (digital innovation one) in this challenge React
 Application developed using the following technologies:
 
 - [React](https://reactjs.org)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Styled-components](https://styled-components.com/)
+- [Styled components](https://styled-components.com/)
 - [React Redux](https://react-redux.js.org/)
 - [Google Map React](https://developers.google.com/maps/documentation)
 - [Material UI](https://mui.com/pt/)
